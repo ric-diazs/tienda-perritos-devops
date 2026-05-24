@@ -17,3 +17,4 @@ INSERT INTO productos (nombre, descripcion, precio, stock) VALUES
 ('Bravery pollo Adulto raza pequena', 'Sabor a pollo', 25990, 20);
 
 -- Comentario para probar CI/CD de 'db' con Github Actions
+-- Otro mensaje de prueba (fallo la primera vez)
