@@ -185,3 +185,5 @@ btnCancelar.addEventListener("click", () => {
 
 // Cargar productos al iniciar
 cargarProductos();
+
+// Comentario para disparar Github Action de Frontend
