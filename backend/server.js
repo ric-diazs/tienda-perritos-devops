@@ -138,3 +138,5 @@ app.listen(PORT, async () => {
   console.log(`Servidor backend escuchando en puerto ${PORT}`);
   await initDb();
 });
+
+// Comentario de prueba para disparar CI/CD de Github Actions para esta capa de la aplicacion
